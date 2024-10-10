@@ -1,0 +1,8 @@
+```bash
+hacker@commands~touching-files:~$ cd /tmp
+hacker@commands~touching-files:/tmp$ touch pwn
+hacker@commands~touching-files:/tmp$ touch college
+hacker@commands~touching-files:/tmp$ /challenge/run
+Success! Here is your flag:
+pwn.college{UQ_S2lVvuqpumAebylYJpm4kfLb.dBzM4QDLzYTN0czW}
+```
