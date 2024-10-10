@@ -1,0 +1,6 @@
+```bash
+hacker@globbing~mixing-globs:~$ cd /challenge/files/
+hacker@globbing~mixing-globs:/challenge/files$ /challenge/run [cep]*
+You got it! Here is your flag!
+pwn.college{AMcOHuwp1pFCbM90LNiUeGXJuD0.dVjM4QDLzYTN0czW}
+```
