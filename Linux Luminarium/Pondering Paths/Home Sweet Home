@@ -1,0 +1,6 @@
+```bash
+hacker@paths~home-sweet-home:~$ /challenge/run ~/f
+Writing the file to /home/hacker/h!
+... and reading it back to you:
+pwn.college{86v-TU4qJpirx0HmPSx0AvlD55f.dNzM4QDLzYTN0czW}
+```
