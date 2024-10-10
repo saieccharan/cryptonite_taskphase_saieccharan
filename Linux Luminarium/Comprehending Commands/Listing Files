@@ -1,0 +1,7 @@
+```bash
+hacker@commands~listing-files:~$ ls /challenge
+32613-renamed-run-28805  DESCRIPTION.md
+hacker@commands~listing-files:~$ /challenge/32613-renamed-run-28805
+Yahaha, you found me! Here is your flag:
+pwn.college{c859Ym-hvggMM4HAd8gfcciCQ9b.dhjM4QDLzYTN0czW}
+```
