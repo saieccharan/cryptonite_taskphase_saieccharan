@@ -1,0 +1,6 @@
+```bash
+hacker@piping~redirecting-output:~$ echo PWN > COLLEGE
+Correct! You successfully redirected 'PWN' to the file 'COLLEGE'! Here is your
+flag:
+pwn.college{QeaoWUDTaoNsJkQ8u1iaU9KeUm_.dRjN1QDLzYTN0czW}
+```
