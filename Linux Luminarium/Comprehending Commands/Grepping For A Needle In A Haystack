@@ -1,0 +1,4 @@
+```bash
+hacker@commands~grepping-for-a-needle-in-a-haystack:~$ grep pwn.college /challenge/data.txt
+pwn.college{UBTYryae5dxPMecOJUIxzLWTwcm.ddTM4QDLzYTN0czW}
+```
