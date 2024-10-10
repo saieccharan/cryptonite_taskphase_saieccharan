@@ -1,0 +1,7 @@
+```bash
+hacker@paths~position-thy-self:/home$ /challenge/run
+Correct!!!
+/challenge/run is an absolute path, invoked from the right directory!
+Here is your flag:
+pwn.college{Ah3qfsVm5xT_HJU4F_be1q3ndtt.dZDN1QDLzYTN0czW}
+```
