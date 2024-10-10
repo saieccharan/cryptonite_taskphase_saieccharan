@@ -1,8 +1,0 @@
-# DOJO (Linux Luminarium)
-## MODULE(Hello Hackers):
-### CHALLENGE(Intro To Arguments):
-### WHAT I LEARNT :
-**echo**: a command which  is used to display a line of text or can be assumed as print function from python (my understanding)
-**Argument**:additional data passed to the command. When you type a line of text and hit enter, the shell actually parses your input into a command and its arguments. basically the text near commands which gives additional information (my understanding)
-#### REFERENCE MATERIAL:
-https://ubuntu.com/tutorials/command-line-for-beginners
