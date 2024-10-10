@@ -1,0 +1,8 @@
+```bash
+hacker@commands~removing-files:~$ ls
+delete_me  h
+hacker@commands~removing-files:~$ rm delete_me
+hacker@commands~removing-files:~$ /challenge/check
+Excellent removal. Here is your reward:
+pwn.college{AnDWP57Iysy1LnxTgCZ4Ew77Kav.dZTOwUDLzYTN0czW}
+```
