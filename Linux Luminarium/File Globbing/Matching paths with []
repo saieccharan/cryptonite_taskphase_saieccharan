@@ -1,0 +1,5 @@
+```bash
+hacker@globbing~matching-paths-with-:~$ /challenge/run /challenge/files/file_[absh]
+You got it! Here is your flag!
+pwn.college{MyuhxnTyjc-N5jmirsLk5pwKEVU.dRjM4QDLzYTN0czW}
+```
