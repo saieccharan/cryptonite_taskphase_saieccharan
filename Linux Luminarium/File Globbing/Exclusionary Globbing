@@ -1,0 +1,5 @@
+```bash
+hacker@globbing~exclusionary-globbing:/challenge/files$ /challenge/run [!pwn]*
+You got it! Here is your flag!
+pwn.college{kHt0bISzlRJ4a_mrW5YlEre07nb.dZjM4QDLzYTN0czW}
+```
