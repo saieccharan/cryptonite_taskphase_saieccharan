@@ -1,0 +1,7 @@
+```bash
+hacker@paths~explicit-relative-paths-from-:/$ ./challenge/run
+Correct!!!
+./challenge/run is a relative path, invoked from the right directory!
+Here is your flag:
+pwn.college{sb92GmbEmezuvd4sgGyq9InIOuP.dBTN1QDLzYTN0czW}
+```
