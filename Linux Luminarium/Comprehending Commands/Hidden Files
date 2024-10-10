@@ -1,0 +1,10 @@
+```bash
+hacker@commands~hidden-files:~$ cd /
+hacker@commands~hidden-files:/$ ls -a
+.                      bin        etc    lib64   nix   run   tmp
+..                     boot       home   libx32  opt   sbin  usr
+.dockerenv             challenge  lib    media   proc  srv   var
+.flag-210942113927702  dev        lib32  mnt     root  sys
+hacker@commands~hidden-files:/$ cat .flag-210942113927702
+pwn.college{MmRY9oXc3rD-lackXvYw2ec-bDT.dBTN4QDLzYTN0czW}
+```
